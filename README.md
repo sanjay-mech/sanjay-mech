@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:00d4ff&height=200&section=header&text=Sanjay%20Jangid&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Quantitative%20Trading%20Systems&descAlignY=62&descSize=16&stroke=00d4ff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:00d4ff&height=200&section=header&text=Sanjay%20Jangid&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%E2%80%A2%20Quantitative%20Trading%20Systems&descAlignY=62&descSize=16&stroke=00d4ff&strokeWidth=1" width="100%" />
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://git.io/typing-svg">
