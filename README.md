@@ -1,78 +1,125 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sanjay%20Jangid&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Quantitative%20Trading%20Systems%20Builder&descAlignY=60&descSize=16" width="100%" />
-</div>
 
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:00d4ff&height=200&section=header&text=Sanjay%20Jangid&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Quantitative%20Trading%20Systems&descAlignY=62&descSize=16&stroke=00d4ff&strokeWidth=1" width="100%" />
+
+<!-- Dynamic Typing Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Automated+NSE+F%26O+Trading+Engines;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Real-Time+Market+Screeners+%26+Option+Analytics;PG-DAI+C-DAC+ACTS+Pune+%7C+Python+%26+Cloud" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Quick Badges -->
 <p align="center">
   <a href="mailto:sanjay.jangir2509@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sanjay.jangir2509%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-sanjay.jangir2509%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sanjay-mech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/sanjay-mech?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-sanjay--mech-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sanjay-mech&label=Views&color=00d4ff&style=flat-square" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 Building **Quantitative Trading Engines, NSE F&O Screeners, and Automated Execution Systems**
-- 🧠 Focused on **Deep Learning, Computer Vision, NLP**, and **Algorithmic Market Microstructure**
-- 🎓 PG Diploma in Artificial Intelligence (**C-DAC ACTS, Pune**)
-- ⚙️ Deploying production Python bots, real-time web dashboards, and cloud-hosted trading pipelines on **GCP & Linux**
-- 📫 Reach me at **sanjay.jangir2509@gmail.com**
+</div>
 
 ---
 
-### 🚀 Recent & Featured Projects
+### ⚡ About Me
 
-#### 📈 Quantitative Finance & Algorithmic Trading
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **TradeMatrix / NSE Day Trader** *(Private)* | Multi-tenant NSE F&O intraday & options algo engine with Angel One & Kotak Neo execution, OI regime filtering, Telegram bot, web dashboard, and Google Sheets trade logging. | `Python` `Angel SmartAPI` `Telegram` `Systemd` |
-| **[nse-screener](https://github.com/sanjay-mech/nse-screener)** | Python-based NSE stock screener for intraday momentum and breakout setups. | `Python` `Pandas` `NSE` |
-| **[dojistack](https://github.com/sanjay-mech/dojistack)** | Candlestick pattern recognition and price-action analysis toolkit. | `Python` |
-| **[RRG-Sector-Rotation-India](https://github.com/sanjay-mech/RRG-Sector-Rotation-India)** | Relative Rotation Graph (RRG) engine tracking Indian market sector momentum & rotation. | `Python` `Data Viz` |
-| **[5-Ema-trading-statergy-using-kite-connect](https://github.com/sanjay-mech/5-Ema-trading-statergy-using-kite-connect)** | Automated 5-EMA intraday trading strategy integrated with Zerodha Kite Connect API. | `Python` `Kite Connect` |
-| **[stock_screener](https://github.com/sanjay-mech/stock_screener)** & **[chartink-bot](https://github.com/sanjay-mech/chartink-bot)** | Automated stock screening pipelines with instant Telegram alert delivery. | `Python` `Telegram Bot` |
-| **[vcp_screener.github.io](https://github.com/sanjay-mech/vcp_screener.github.io)** | Stock screener implementing Mark Minervini's Volatility Contraction Pattern (VCP). | `Python` `Quant` |
-
-#### 🤖 AI, Deep Learning & NLP
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[C-dac-Final-Project-Deep-Fake-Detection](https://github.com/sanjay-mech/C-dac-Final-Project-Deep-Fake-Detection)** | Deepfake video/image detection pipeline using Deep Learning & Computer Vision ([Streamlit App](https://github.com/sanjay-mech/streamlit)). | `TensorFlow` `OpenCV` `Streamlit` |
-| **[Resume-Screening-App](https://github.com/sanjay-mech/Resume-Screening-App)** | Automated resume classification and candidate matching engine using NLP and KNN. | `Python` `NLP` `Scikit-Learn` |
-| **[Housing-Price-prediction-in-Metropolitan-Cities](https://github.com/sanjay-mech/Housing-Price-prediction-in-Metropolitan-Cities)** | End-to-end regression modeling for real estate price estimation across metro cities. | `Python` `ML` `Pandas` |
+```python
+class SanjayJangid:
+    def __init__(self):
+        self.role = "AI / ML Engineer & Quant Systems Builder"
+        self.education = "PG Diploma in Artificial Intelligence (C-DAC ACTS, Pune)"
+        self.focus = ["Algorithmic Trading", "NSE F&O Microstructure", "Deep Learning", "Computer Vision", "NLP"]
+        self.stack = ["Python", "TensorFlow", "Scikit-Learn", "OpenCV", "Pandas", "Angel SmartAPI", "GCP"]
+        self.contact = "sanjay.jangir2509@gmail.com"
+```
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🏆 Featured Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 TradeMatrix / NSE Day Trader <sub><code>Private</code></sub></h4>
+      <p>Multi-tenant NSE F&amp;O intraday &amp; options algo engine with <b>Angel One</b> &amp; <b>Kotak Neo</b> execution, live OI regime filtering, Telegram bot control, web dashboard, and Google Sheets trade logging.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SmartAPI-00D4FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Systemd-26A5E4?style=flat-square&logo=linux&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/sanjay-mech/nse-screener">NSE Screener</a> &amp; <a href="https://github.com/sanjay-mech/dojistack">DojiStack</a></h4>
+      <p>Real-time Python screeners for NSE intraday momentum, opening-range breakouts, candlestick price-action patterns, and multi-timeframe EMA setups.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Quant-00C853?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔄 <a href="https://github.com/sanjay-mech/RRG-Sector-Rotation-India">RRG Sector Rotation India</a></h4>
+      <p>Relative Rotation Graph (RRG) analytics engine tracking sector strength, momentum, and institutional rotation across Indian NSE indices.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data_Viz-FF6F00?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/sanjay-mech/C-dac-Final-Project-Deep-Fake-Detection">DeepFake Detection (C-DAC)</a></h4>
+      <p>Deep Learning &amp; Computer Vision pipeline for detecting manipulated video/image frames, deployed with an interactive <a href="https://github.com/sanjay-mech/streamlit">Streamlit web app</a>.</p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📂 More Recent Trading &amp; AI Repositories</b> (click to expand)</summary>
+  <br/>
+
+| Repository | Focus |
+| :--- | :--- |
+| **[5-Ema-trading-statergy-using-kite-connect](https://github.com/sanjay-mech/5-Ema-trading-statergy-using-kite-connect)** | Automated 5-EMA strategy execution via Zerodha Kite Connect |
+| **[vcp_screener.github.io](https://github.com/sanjay-mech/vcp_screener.github.io)** | Mark Minervini Volatility Contraction Pattern (VCP) scanner |
+| **[stock_screener](https://github.com/sanjay-mech/stock_screener)** & **[chartink-bot](https://github.com/sanjay-mech/chartink-bot)** | Automated stock alerts &amp; Chartink-to-Telegram pipelines |
+| **[Resume-Screening-App](https://github.com/sanjay-mech/Resume-Screening-App)** | NLP + KNN-based resume parsing &amp; candidate categorization |
+| **[Housing-Price-prediction-in-Metropolitan-Cities](https://github.com/sanjay-mech/Housing-Price-prediction-in-Metropolitan-Cities)** | End-to-end ML regression for metro real estate pricing |
+
+</details>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,mysql,linux,gcp,git,github,vscode&theme=dark" alt="Tech Stack" />
+</div>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-mech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-mech&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-mech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-mech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff" height="165" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-mech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-mech&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-mech&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
+
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjay-mech&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sanjay-mech&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="Trophies" />
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=90&section=footer" width="100%" />
+</div>
