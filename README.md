@@ -27,15 +27,30 @@
 
 ### ⚡ About Me
 
-```python
-class SanjayJangid:
-    def __init__(self):
-        self.role = "AI / ML Engineer & Quant Systems Builder"
-        self.education = "PG Diploma in Artificial Intelligence (C-DAC ACTS, Pune)"
-        self.focus = ["Algorithmic Trading", "NSE F&O Microstructure", "Deep Learning", "Computer Vision", "NLP"]
-        self.stack = ["Python", "TensorFlow", "Scikit-Learn", "OpenCV", "Pandas", "Angel SmartAPI", "GCP"]
-        self.contact = "sanjay.jangir2509@gmail.com"
-```
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>Hey there! I'm <b>Sanjay Jangid</b> — an <b>AI/ML Engineer &amp; Quantitative Systems Builder</b> from India, turning market microstructure research and deep learning into live, automated systems.</p>
+      <ul>
+        <li>🔭 <b>Currently Building:</b> Multi-tenant NSE F&amp;O algorithmic trading engines, real-time option screeners &amp; Telegram execution bots</li>
+        <li>🧠 <b>AI &amp; ML Focus:</b> Deep Learning, Computer Vision, and Natural Language Processing</li>
+        <li>🎓 <b>Education:</b> PG Diploma in Artificial Intelligence (<b>C-DAC ACTS, Pune</b>)</li>
+        <li>☁️ <b>Infrastructure:</b> Production Python pipelines running 24/7 on <b>GCP &amp; Linux (systemd)</b></li>
+        <li>📫 <b>Reach Me:</b> <a href="mailto:sanjay.jangir2509@gmail.com">sanjay.jangir2509@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="38%" valign="middle" align="center">
+      <p><b>🎯 Core Domains</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Algorithmic_Trading-00D4FF?style=for-the-badge&logo=alpaca&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/NSE_F%26O_Analytics-00C853?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/NLP_%26_ML-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
