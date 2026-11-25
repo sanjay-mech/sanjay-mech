@@ -130,9 +130,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjay-mech&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjay-mech&theme=radical" width="95%" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
